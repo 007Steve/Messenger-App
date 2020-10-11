@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  
+}
+
+form{
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  justify-content: center;
+  width: 100%;
+}
+
+img{
+  height: 220px;
+  object-fit: contain;
+}
